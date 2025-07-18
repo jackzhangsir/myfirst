@@ -7,3 +7,7 @@
 
 ## 想添加小程序技术群，可以添加下方小助手
 ![Alt text](http://demos.pxuexiao.com/web_css/img/xigua_net.jpeg)
+
+
+## readmeX
+[![ReadmeX](https://raw.githubusercontent.com/CodePhiliaX/resource-trusteeship/main/readmex.svg)](https://readmex.com/CocoaPods/Specs)
